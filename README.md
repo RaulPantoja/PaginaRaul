@@ -7,29 +7,19 @@ Bienvenido a mi página de GitHub, en esta pagina os enseñare quien soy, mi exp
 Soy Raul Pantoja Porras, un estudiante de Desarollo de Aplicaciones Multiplataforma en Francisco de los Ríos (Fernan-Nuñez). Naci el 10 de septiembre de 2001
 
 ```markdown
-Syntax highlighted code block
+Realize los estudios en:
 
-# Header 1
-## Header 2
-### Header 3
+Colegio Alfar-Primaria
+I.E.S Tierno Galván-ESO y Grado Medio de Sistemas Microinformaticos y Redes
+I.E.S Francisco de los Rios-Grado Superior de Desarollo de Aplicaciones Multiplataforma
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://avatars.githubusercontent.com/u/60599710?s=400&u=e0bb758dcf78b17767f62981c115f9d4e82066e9&v=4) and ![Image](https://avatars.githubusercontent.com/u/60599710?s=400&u=e0bb758dcf78b17767f62981c115f9d4e82066e9&v=4)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Orientacion laboral
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RaulPantoja/PaginaRaul/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Me gustaria aprender programacion de videojuegos, y hacer mi propio juego
 
-### Support or Contact
+### Hobbies
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
