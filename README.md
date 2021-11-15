@@ -2,9 +2,9 @@
 Bienvenido a mi página de GitHub, en esta pagina os enseñare quien soy, mi experiencia laboral, mi formacion y hobbies
 
 
-### Markdown
+### Sobre Mí
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Soy Raul Pantoja Porras, un estudiante de Desarollo de Aplicaciones Multiplataforma en Francisco de los Ríos (Fernan-Nuñez). Naci el 10 de septiembre de 2001
 
 ```markdown
 Syntax highlighted code block
