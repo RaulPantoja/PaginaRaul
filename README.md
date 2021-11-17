@@ -7,7 +7,7 @@ Bienvenido a mi página de GitHub, en esta pagina os enseñare quien soy, mi exp
 Soy Raul Pantoja Porras, un estudiante de Desarollo de Aplicaciones Multiplataforma en Francisco de los Ríos (Fernan-Nuñez). Naci el 10 de septiembre de 2001
 
 ```markdown
-Orientacion laboral
+*Orientacion laboral*
 
 Me gustaria aprender programacion de videojuegos, y hacer mi propio juego
 El juego seria modo historia con zombies, con buenos graficos y mi objetivo es que sea Game Of The Year
